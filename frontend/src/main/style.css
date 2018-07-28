@@ -1,0 +1,16 @@
+.mark--asDone {
+    text-decoration: line-through;
+}
+
+.todo-form {
+    padding-bottom: 60px;
+}
+
+
+.btn{ 
+    margin-right:5px;
+}
+
+.actions {
+    width: 105px;
+}
